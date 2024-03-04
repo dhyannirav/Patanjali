@@ -1,3 +1,8 @@
+---
+title: Introduction
+menu_order: 1
+post_status: publish
+---
 Les yoga sutras de Patañjali sont la première référence sur le yoga, avec la Bhagavad Gita.
 
 Le yoga est un état. Un état d’union entre le corps, le mental et l’âme d’une part, et entre l’âme individuelle et l’âme universelle d’autre part.
