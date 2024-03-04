@@ -1,3 +1,6 @@
+---
+skip_file: yes
+---
 # Patanjali
 Ma traduction et mon commentaire des Yoga Sutras de Patañjali
 
