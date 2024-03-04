@@ -1,3 +1,8 @@
+---
+title: samādhi pāda
+menu_order: 2
+post_status: publish
+---
 51 sutras qui introduisent au yoga, aux méthodes et au but.
 # Maintenant
 
