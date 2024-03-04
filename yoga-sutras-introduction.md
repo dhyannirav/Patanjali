@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Yoga Sutra de Patañjali - Introduction
 menu_order: 1
 post_status: publish
 ---
@@ -34,15 +34,15 @@ Je vais prendre un aphorisme après l’autre et en donner une ou deux traductio
 
 [![Introduction aux Yoga Sutras de Patañjali](https://oui.ch/wp-content/uploads/2021/04/Patanjali-214x300.jpg "Introduction aux Yoga Sutras de Patañjali 1")](https://oui.ch/wp-content/uploads/2021/04/Patanjali.jpg)
 
->yogena cittasya padena vācāṃ malaṃ śarīrasya ca vaidyakena | yo’pākarot taṃ pravaraṃ munīnāṃ patañjaliṃ prāñjalirānato’smi ||
->ābāhu puruṣākāraṃ śaṅkhacakrāsi dhāriṇam | sahasra śirasaṃ śvetaṃ praṇamāmi patañjalim ||
+>yogena cittasya padena vācāṃ malaṃ śarīrasya ca vaidyakena |
+>yo’pākarot taṃ pravaraṃ munīnāṃ patañjaliṃ prāñjalirānato’smi ||
+>ābāhu puruṣākāraṃ śaṅkhacakrāsi dhāriṇam |
+>sahasra śirasaṃ śvetaṃ praṇamāmi patañjalim ||
 >śrīmate anantāya nāgarājāya namo namaḥ ||
 >
 >Inclinons-nous devant le plus noble des sages, Patañjali, qui nous a donné le yoga pour la sérénité et la sainteté d’esprit, la grammaire pour la clarté et la pureté de la parole et la médecine pour la perfection de la santé.
-
-Prosternons-nous devant Patañjali, dont le haut du corps a une forme humaine, dont les bras tiennent une conque et un disque et qui est couronné par un cobra à mille têtes.
-
-Au vénérable et éternel roi serpent, mes révérences.
+>Prosternons-nous devant Patañjali, dont le haut du corps a une forme humaine, dont les bras tiennent une conque et un disque et qui est couronné par un cobra à mille têtes.
+>Au vénérable et éternel roi serpent, mes révérences.
 
 ## Légende de Patañjali
 
