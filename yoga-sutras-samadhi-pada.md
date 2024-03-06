@@ -219,10 +219,10 @@ La pratique doit être continue et intense pour amener le succès. Une pratique 
 
 Autre traduction: Vous devez trouver, au milieu cette voyelle si particulière, subtile et intérieure.
 
->| ikāra (ई) | svakāra (श्व) | rakāra (र) |
->|:--|:--|:--|
->| inspir | pause | expir |
->| énergie | soi | forme |
+| ikāra (ई) | svakāra (श्व) | rakāra (र) |
+|:--|:--|:--|
+| inspir | pause | expir |
+| énergie | soi | forme |
 
 >īśvara praṇidhānād vā (23)
 >
@@ -291,4 +291,127 @@ Si notre intérieur n’est pas saturé de prāna, de lumière, ces obstacles s
 >La tristesse, l’anxiété, le corps, l’agitation, la respiration et la confusion nous impliquent dans le monde (31)
 
 Dès la naissance, dès le premier souffle, nous avons tendance à nous identifier au corps et au monde. La respiration, en particulier quand elle est irrégulière en raison de la présence d’émotions, renforce notre attachement au corps et au monde. En «remontant» à la source de la respiration, on peut faire le chemin inverse de se détacher du monde et de retrouver le soi.
+
+# Remède et pratique
+>tat pratiṣedhārtham ekatattvābhyāsaḥ (32)
+>
+>On peut y remédier en pratiquant constamment en union avec l’être intérieur (32)
+
+La pratique est nécessaire pour purifier les éléments dans les centres, dissoudre les attachements au monde.
+
+>maitrī karuṇā muditopekṣāṇāṁ sukhaduḥkha puṇyāpuṇya viṣayāṇāṁ bhāvanātaścitta prasādanam (33)
+>
+>On purifie le mental en cultivant la bienveillance envers le joyeux, la compassion envers le malheureux, la joie à l’égard de la vertu et l’indifférence à l’égard du vice (33)
+
+Quand par la pratique toutes les dualités sont consumées, le mental s’apaise.
+
+>pracchardana vidhāraṇābhyāṁ vā prāṇasya (34)
+>
+>Il est possible d’y parvenir en observant l’inspir et l’expir ou en se concentrant sur l’énergie de vie (34)
+
+Le but ultime peut être atteint, avec une technique adéquate, par une concentration profonde sur le *prāṇa*, la force de vie. Quand le *prāṇa* est sous contrôle, *citta* aussi est sous contrôle.
+
+>viṣayavatī vā pravṛttirutpannā manasaḥ sthitinibandhinī (35)
+>
+>On peut atteindre la stabilité mentale en demeurant présent à tout objet, dès qu’il se manifeste (35)
+
+Quand les objets matériels se présentent, le mental les reflètent. S’attacher à ces manifestations est le piège à éviter. Il faut cultiver la lumière intérieure pour se libérer de cette tentation de s’attacher à la manifestation.
+
+# La lumière intérieure *jyotiṣmatī*
+>viśokā vā jyotiṣmatī (36)
+>
+>Au-delà de l’affliction ou dans la lumière intérieure (36)
+
+Quand par la pratique on s’établit au-delà de l’affliction ou dans la lumière intérieure, c’est une étape de valeur, mais le but ultime n’est pas encore atteint.
+
+>vītarāgaviṣayaṁ vā cittam (37)
+>
+>Au-delà des fluctuations matérielles ou par citta (37)
+
+Quand on s’établit au-delà des fluctuations, on n’a plus d’actions. Il n’y a plus ni de gains ni de pertes. On devient alors *citta*. La paix intérieure qui en résulte n’est pas encore le but. 
+
+>svapna nidrā jñānālambanaṁ vā (38)
+>
+>A l’aide du rêve et du sommeil ou par la connaissance (38)
+
+La connaissance est crée par *citta*, au même titre que le rêve ou le sommeil. Par la connaissance, on obtient donc le même résultat que par le sommeil ou le rêve, c’est-à-dire spirituellement rien.
+
+# La méditation dhyāna
+>yathābhimata dhyānād vā (39)
+>
+>Comme cela a déjà été dit, il faut contrôler par la méditation (39)
+
+Pour contrôler citta, il faut se comporter avec précaution pour ne pas la perturber. Mais un comportement strict et austère ne suffit pas pour obtenir ce contrôle, il faut d’abord méditer.
+
+>paramāṇu parama mahattvānto’sya vaśīkāraḥ (40)
+>
+>Cette énergie souveraine, cette voie noble et suprême, vous apportera une profonde maîtrise intérieure (40)
+
+*vaśīkāra* est le contrôle de toutes les perturbations. Ce contrôle est possible grâce à l’énergie générée par *īśvara praṇidhāna*, c’est-à-dire par la méditation. Le contrôle de mental n’a pas sa source dans le mental, mais dans le yoga, depuis *īśvara*.
+
+>kṣīṇa vṛtter abhijātasyeva maṇer grahītṛ grahaṇa grāhyeṣu tatstha tadañjanatā samāpattiḥ (41)
+>
+>La manifestation des actions disparaîtra progressivement par l’énergie qui réside à l’intérieur et deviendra aussi pure que le crystal. Cette existence intérieure a été, est et sera acceptée comme le seul remède pouvant mettre un terme à toute manifestation. (41)
+
+Par la méditation, les manifestations et les actions intérieures s’amenuisent.
+
+>śabdārthajñānavikalpaiḥ saṅkīrṇā savitarkā samāpattiḥ (42)
+>
+>Dans le non-jugement, le silence, il faut réduire et déraciner la cause des sons, la connaissance et le rêve éveillé (42)
+
+La véritable intériorisation commence quand on coupe les liens avec l’extérieur. Tout nom, toute forme, toute connaissance, juste ou fausse, toute pensée et toute émotion, fait partie du monde extérieur.
+
+>smṛtipariśuddhau svarūpaśūnyevārthamātranirbhāsā nirvitarkā (43)
+>
+>La mémoire étant purifiée à chaque instant, il y a la vacuité de notre propre forme, le sans-forme, un état au-delà même du silence (43)
+
+Toute mémoire doit être abandonnée. Si quelque forme que ce soit subsiste dans le mental, nous ne pouvons pas être sans forme, pas atteindre *nirbhāsa*.
+
+>etayaiva savicārā nirvicārā ca sūkṣmaviṣayā vyākhyātā (44)
+>
+>Notre propre forme, *svarūpa*, ne se situe ni dans le jugement ni au-delà du jugement, ni dans la matière subtile, ni dans l’analyse (44)
+
+# Le samādhi
+
+>sūkṣmaviṣayatvaṁ cāliṅgaparyavasānam (45)
+>
+>L’aboutissement se trouve là où réside cette matière subtile indifférenciée (45)
+
+Cette subtile énergie intérieure qui habite tous les êtres vivants ne peut pas être décrite, elle est totalement indifférenciée. Elle ne peut être atteinte que par le *samādhi*.
+
+>tā eva sabījaḥ samādhiḥ (46)
+>
+>C’est le samādhi au sein de la graine (bīja) (46)
+
+*bīja* est la racine de toute chose, au-delà de la manifestation. On médite sur quelque-chose, un son par exemple. Quand on arrive dans la racine de ce son, avant la manifestation, on est dans *bīja*.
+
+>nirvicāravaiśāradye’dhyātmaprasādaḥ (47)
+>
+>Se spécialiser dans l’au-delà du jugement amène dans l’âme intérieure, à la paix intérieure (47)
+
+Si nous progressons jusqu’à la racine, jusqu’au prāna, la mémoire s’efface et tout jugement disparait. Quand la mémoire reste vide longtemps, on entre dans la graine. On est alors dans la paix de l’âme.
+
+>ṛtambharā tatra prajñā (48)
+>
+>Là, cet état de pleine sagesse est source de vérité (48)
+
+L’état de *samādhi* est l’état du non-manifesté. Il est source de la sagesse, *prajñā*.
+
+>śrutānumānaprajñābhyāmanyaviṣayā viśeṣārthatvāt (49)
+>
+>Cette sagesse est d’une autre nature que celle issue d’un témoignage ou d’un raisonnement, elle touche directement l’essence du réel (49)
+
+Le *samādhi* est l’état de vérité et de sagesse. Il ne peut pas être atteint par l’écoute, le son ou l’imagination. Il ne peut pas être décrit. Il est l’état sans parole, la Vacuité.
+
+>tajjaḥ saṁskāro’nya saṁskāra pratibandhī (50)
+>
+>Le *saṁskāra* (fruit, impression mentale) qui en émerge est très différent de celui créé par toutes les attaches (*pratibandhī*) (50)
+
+L’expérience du *samādhi* a l’effet d’un baptême, il nous fait naître à notre dimension spirituelle.
+
+>tasyāpi nirodhe sarvanirodhān nirbījaḥ samādhiḥ (51)
+>
+>Une fois que le samskāra issu de toutes vos attaches est arrêté, vous parvenez à *nirbīja samādhi*, le *samādhi* au-delà de la graine (51)
+
+Avec la pratique de la méditation et du *samādhi*, le karma est brûlé. Quand le *samskāra* en lien avec le monde est épuisé, il est possible, par le *samādhi*, de se maintenir au-delà de toute graine (*nirbīja*), de se libérer définitivement de tout désir et de la souffrance qui en découle immanquablement.
 
